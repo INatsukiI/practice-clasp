@@ -27,4 +27,6 @@ npm run build
 ```
 npm run deploy
 ```
+> [!WARNING]
+> 使用するスプレッドシートのIDは.clasp.jsonのscriptIdに設定してください
 
